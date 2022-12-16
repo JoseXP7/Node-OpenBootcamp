@@ -1,0 +1,16 @@
+{
+  "name": "saludo-openbootcamp",
+  "version": "1.0.0",
+  "description": "Esta es la tarea de OpenBootcamp en el modulo de introduccion",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "saludo",
+    "openbootcamp"
+  ],
+  "author": "Jose Manuel",
+  "license": "ISC"
+}
